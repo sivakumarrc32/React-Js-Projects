@@ -43,7 +43,7 @@ export const QrCode = () => {
     <div className="container col-12 col-sm-2" >
       <h1>QR GENRATOR</h1>
       {Loading && <p>Please Wait.....</p>}
-      {img && <img src={ img } alt="" className="img col-sm-6 col-md-5 col-lg-4 col-xl-3"/>}
+      {img && <img src={ img } alt="" className="img col-md-5 col-lg-4 col-xl-3"/>}
 
       <div className="inputs col-8" >
         <label htmlFor="input" className="input">Enter the Data :</label>
