@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    box-sizing: border-box;
+
+}
+body{
+    font-family: "Inter", sans-serif;
+}
+
+#root{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    margin: 0;
+}
+
+h3{
+    margin: 10px 0;
+}
+
+h5{
+    margin: 5px;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.container-card{
+    background-color: hsl(90, 17%, 70%);
+    border-radius: 8px;
+    box-shadow: 0px 10px 20px -10px black;
+    color: #213448;
+    padding-top: 30px;
+    width: 350px;
+    max-width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+.status{
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 4px 7px;
+    position: absolute;
+    top: 30px;
+    left: 15px;
+}
+
+.online{
+    background-color: rgb(115, 255, 115);
+    color: rgb(0, 0, 0);
+}
+.offline{
+    background-color: rgb(250, 14, 14);
+    color: rgb(255, 255, 255);
+}
+
+.img{
+    border: 3px solid white;
+    border-radius: 50%;
+    padding: 5px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.button{
+    background-color:  hsl(227, 91%, 57%);
+    border: 1px solid hsl(227, 91%, 57%);
+    border-radius: 6px;
+    color: white;
+    font-family: "Inter",sans-serif;
+    font-weight: 500;
+    padding: 9px 25px;
+}
+
+.button.follow{
+    background-color: transparent;
+}
+
+
+.skillss{
+    background-color: hsl(90, 17%, 55%);
+    text-align: left;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.skills{
+    margin-bottom: 20px;
+}
+
+.skillss ul {
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+
+}
+
+.skillss ul li{
+    border: 1px solid rgb(174, 226, 236);
+    display: inline-block;
+    border-radius: 2px;
+    padding: 7px;
+    margin: 0 7px 7px 0;
+    font-size: 13px;
+    color: white;
+}
+
+.photo{
+    height: 145px;
+}
