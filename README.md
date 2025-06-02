@@ -16,3 +16,9 @@
 <a href="https://qrcodegenrator-sivakumar.netlify.app/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
 </a>
+<br>
+<h2>3. Advice App Project Using React Js </h2>
+<p>A React app that fetches and displays random life advice from an API — get new tips with a single click!</p><br>
+<a href="https://adviceapp-sivakumar.netlify.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
+</a>
