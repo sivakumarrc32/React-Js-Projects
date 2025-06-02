@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 function AdviseApp() {
 
-    const [advice,setAdvice]=useState("Please Click the Button to Get Advice");
+    const [advice,setAdvice]=useState("Need a spark of wisdom? Your advice is one click away");
     const [count,setCount]=useState(0);
 
     async function getAdvice(){
