@@ -22,3 +22,9 @@
 <a href="https://adviceapp-sivakumar.netlify.app/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
 </a>
+<br>
+<h2>4. Weather App Project Using React Js </h2>
+<p>A modern React app that shows real-time weather updates for any city using a live weather API. Displays temperature, humidity, conditions, and more in a clean UI.</p><br>
+<a href="https://weatherapp-sivakumar.netlify.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
+</a>
