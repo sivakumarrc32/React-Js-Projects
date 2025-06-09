@@ -1,12 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<div align="center">
+  <h2>🌐 Visit Website</h2>
+  <p><strong>Wanna see how it works? Click below and explore the real-time version of this project in action!</strong></p>
+</div><br>
+<h3>⚖️ BMI-Calculator App </h3>
+<p>A clean and responsive React app to calculate your Body Mass Index (BMI).
+Just enter your height and weight to get instant results with health category insights.
+Track your fitness level and stay informed about your health anytime.
+</p>
+<a href="https://bmicalculator-sivakumar.netlify.app/" target ="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
+</a>
