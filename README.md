@@ -28,3 +28,9 @@
 <a href="https://weatherapp-sivakumar.netlify.app/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
 </a>
+<br>
+<h2>5. BMI-Calculator App Project Using React Js </h2>
+<p>A simple React app to calculate Body Mass Index and track your fitness level instantly.</p><br>
+<a href="https://bmicalculator-sivakumar.netlify.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
+</a>
