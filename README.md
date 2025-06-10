@@ -34,3 +34,9 @@
 <a href="https://bmicalculator-sivakumar.netlify.app/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
 </a>
+<br>
+<h2>6. Currency Converter App Project Using React Js </h2>
+<p>Convert currencies in real-time with live exchange rates using a simple React interface.</p><br>
+<a href="https://currencyconverter-sivakumar.netlify.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
+</a>
