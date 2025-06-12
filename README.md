@@ -40,3 +40,15 @@
 <a href="https://currencyconverter-sivakumar.netlify.app/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
 </a>
+<br>
+<h2>7.  Digital Clock Project Using React Js </h2>
+<p>A real-time digital clock built with React to display the current time dynamically.Fully responsive and auto-updating every second.</p><br>
+<a href="https://digitalclock-sivakumar.netlify.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
+</a>
+<br>
+<h2>8. Password Generator Project Using React Js </h2>
+<p>Generate strong and secure passwords instantly using this React app.Choose length, include symbols, numbers, and more with a click.</p><br>
+<a href="https://passwordgenerator-sivakumar.netlify.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/128/14018/14018663.png" alt="Try It Out" width="100">
+</a>
