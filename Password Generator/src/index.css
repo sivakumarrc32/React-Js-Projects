@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  font-family: "Oswald", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color: #C68EFD;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.password-generator{
+  width: 500px;
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px;
+}
+
+.password-generator h2{
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 500;
+  font-size: 30px;
+  color: #B17F59;
+  text-transform: uppercase;
+}
+
+.input-group,.checkbox-grp,.generated-password{
+  margin-bottom: 15px;
+}
+
+.checkbox-grp{
+  display: flex;
+  align-items: center;
+}
+
+.checkbox-grp input{
+  margin-right: 10px;
+}
+
+.checkbox-grp label{
+  font-size: 18px;
+}
+
+.input-group label{
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.input-group input{
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  border:1px solid #ccc;
+  border-radius: 5px;
+}
+
+.generate-btn{
+  width: 100%;
+  text-align: center;
+  padding: 8px 15px;
+  background-color: #4B70F5;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 35px;
+}
+
+.generate-btn:hover{
+  background-color: #0037ff;
+}
+
+.generated-password{
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+input[type="text"]{
+  border: none;
+  outline: none;
+  flex: 1;
+  padding: 10px;
+}
+
+.copy-btn{
+  border: none;
+  padding: 5px 30px;
+  color: white;
+  background-color: #FF204E;
+  cursor: pointer;
+}
+.copy-btn:hover{
+  background-color: #ee5555;
+}
+
+.footer{
+  margin-top: 20px;
+  text-align: center;
+  font-size: 15px;
+}
+
+span{
+  color: rgb(255, 0, 0);
+}
